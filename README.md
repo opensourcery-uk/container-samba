@@ -3,7 +3,7 @@
 This is a very simple samba container based on Debian.
 
 It was created primarily to use in the Kubernetes manifests that make up the
-[samba-ad-dc](https://github.com/opensourcery/kubernetes-samba-ad-dc)
+[samba-ad-dc](https://github.com/opensourcery-uk/kubernetes-samba-ad-dc)
 repository.
 
 It could easily be used for other purposes.
